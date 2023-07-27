@@ -1,7 +1,7 @@
 <img src="docs/logo3.png#gh-dark-mode-only" height = "52px" width="380px" />
 <img src="docs/logo1.png#gh-light-mode-only" height = "52px" width="380px" />
 
-### Prediction library for autonomous flight with deep reinforced learning
+### Prediction library for autonomous flight with deep reinforcement learning
 
 Using deep RL, TimeAccelerated can predict near-future flight for aircrafts with known current parameters. These accurate predictions and modeling can be used to adapt to known and unknown scenarios with greater efficiency and enhance optimization curves.
 ##### Also, [Clutch, a minimalist web-viewer for TimeAccelerated data](https://github.com/deltaonealpha/time-accelerated/blob/48ec0ad91a4dcb9d74d964e7c6b51f32610d32f4/clutch.md)
